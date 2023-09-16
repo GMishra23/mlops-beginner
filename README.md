@@ -1,2 +1,2 @@
 # mlops-beginner
-Learning  a ml
+Learning ml
